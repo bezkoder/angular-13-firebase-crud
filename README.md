@@ -1,6 +1,42 @@
-# Angular13FirebaseCrud
+# Angular 13 Firebase CRUD example with Realtime DataBase | AngularFireDatabase
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
+Build Angular 13 CRUD App with Firebase Realtime Database that uses `AngularFireDatabase` service.
+
+- Each Tutorial has key, title, description, published status.
+- We can make CRUD operations: create, retrieve, update, delete Tutorials.
+
+![angular-13-firebase-crud-realtime-database](angular-13-firebase-crud-realtime-database.png)
+
+For more detail, please visit:
+> [Angular 13 Firebase CRUD Realtime DataBase | AngularFireDatabase](https://www.bezkoder.com/angular-13-firebase-crud/)
+
+More Practice:
+> [Angular Firestore CRUD example with AngularFireStore](https://www.bezkoder.com/angular-12-firestore-crud-angularfirestore/)
+
+> [Angular Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-12-file-upload-firebase-storage/)
+
+> [Angular CRUD Application example with Web API](https://www.bezkoder.com/angular-12-crud-app/)
+
+> [Angular Form Validation example (Reactive Forms)](https://www.bezkoder.com/angular-12-form-validation/)
+
+Fullstack with Node Express:
+> [Angular + Node Express + MySQL example](https://www.bezkoder.com/angular-12-node-js-express-mysql/)
+
+> [Angular + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-12-node-js-express-postgresql/)
+
+> [Angular + Node Express + MongoDB example](https://www.bezkoder.com/angular-12-mongodb-node-js-express/)
+
+Fullstack with Spring Boot:
+> [Angular + Spring Boot + H2 Embedded Database example](https://www.bezkoder.com/angular-12-spring-boot-crud/)
+
+> [Angular + Spring Boot + MySQL example](https://www.bezkoder.com/angular-12-spring-boot-mysql/)
+
+> [Angular + Spring Boot + PostgreSQL example](https://www.bezkoder.com/angular-12-spring-boot-postgresql/)
+
+> [Angular + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-12-spring-boot-mongodb/)
+
+Fullstack with Django:
+> [Angular + Django Rest Framework](https://www.bezkoder.com/django-angular-12-crud-rest-framework/)
 
 ## Development server
 
